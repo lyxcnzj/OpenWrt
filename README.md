@@ -33,6 +33,17 @@
 
 ## 近期更新 [![](https://img.shields.io/badge/-近期固件更新-FFFFFF.svg)](#近期更新-)
 2024.5.11，这个是我fork Haibo大佬的项目，初心是自己使用。每个人的需求不同，不同时期的也需求不同，因此没有完美的固件，只有当下适合自己的固件。我在这里会记录我对插件的更改。由于本人只有x86和n1盒子，所以更新也围绕他们展开。
+ARMmini:
+-passwall
+-adguardhome
+-ssrplus
+-openclash
+-smartdns
+-mosdns
+-kms
+-upnp
+-truboacc
+-zerotier
 
 
 ## 定制固件 [![](https://img.shields.io/badge/-项目基本编译教程-FFFFFF.svg)](#定制固件-)

@@ -40,7 +40,7 @@ ARMmini:
 ├── SmartdDNS<br/>
 ├── KMS服务器<br/>
 ├── ShadowSocksR Plus+<br/>　
-├── AdGuard Home<br/>
+├── ADGuard Home<br/>　
 ├── UPNP<br/>
 ├── MosDNS<br/>
 ├── TruboACC<br/>
